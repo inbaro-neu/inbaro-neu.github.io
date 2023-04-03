@@ -4,7 +4,7 @@ title: Animation Generator
 description: program to generate animations from a text description
 img: assets/img/buildings-interactive-screenshot.png
 importance: 1
-category: work
+category: school
 ---
 
 <em>Authors:</em> Inbar Ofer and Benjamin Levin
