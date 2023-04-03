@@ -3,7 +3,7 @@ layout: page
 title: Office Hours Notification System
 description: enhanced ease of use of TA request system
 img: assets/img/oh_notif_screenshot.jpeg
-importance: 2
+importance: 4
 category: fun
 ---
 
