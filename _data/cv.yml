@@ -104,23 +104,49 @@
       institution: Northeastern University Office of Undergraduate Research and Fellowships
       description:
         - Associated with the Northeastern University Chai Lab
-    - year: 2029
-      items: 
-        - Max Planck Medal
+    - year: 2022
+      title: Nu Rho Psi (National Honor Society in Neuroscience)
+    - year: 2021
+      title: Northeastern President's Award
+      institution: Bruce Ronkin, Vice Provost for Undergraduate Education
+      description:
+        - Awarded to the top students (165/~3000) by GPA of each university class
+    - year: 2019
+      title: Honors Early Research Award, Molecular Biology
+      institution: Northeastern University Honors Program
+      description:
+        - Associated with the Northeastern University Chai Lab
 
-- title: Academic Interests
+- title: Technical Proficiencies
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Programming Languages & OS
       items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Java
+        - Racket
+        - Unix
+        - Kotlin
+        - Python
+        - HTML
+        - SQL
+        - C
+        - Assembly
+        - JavaScript
+        - R
+    - title: Software
       items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+        - Git
+        - LaTeX
+        - title: Adobe Creative Suite
+          items:
+            - XD
+            - Photoshop
+            - Illustrator
+            - Lightroom
+        - Android Studio
+        - Google Colab
+        - title: JetBrains
+          items:
+            - IntelliJ IDEA
+            - PyCharm
+        - Visual Studio Code
