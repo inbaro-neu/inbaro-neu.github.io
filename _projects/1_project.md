@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Animation Generator
-description: program to generate animations from a text description
+description: Program to generate animations from a text description
 img: assets/img/buildings-interactive-screenshot.png
 importance: 1
 category: school

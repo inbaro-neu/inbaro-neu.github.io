@@ -291,9 +291,9 @@
     get slug() {
       let slug = '';
       if (this.authors.length) {
-        slug += this.authors[0].lastName.toLowerCase();
+        slug += this.authors[0].lastName;
         slug += this.publishedYear;
-        slug += this.title.split(' ')[0].toLowerCase();
+        slug += this.title.split(' ')[0];
       }
       return slug || 'Untitled';
     }
