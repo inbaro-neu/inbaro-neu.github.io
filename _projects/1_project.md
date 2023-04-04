@@ -9,9 +9,9 @@ category: school
 
 <em>Authors:</em> Inbar Ofer and Benjamin Levin
 
-Access to the GitHub repository may be provided upon request.
+- Access to the GitHub repository may be provided upon request.
 
-# Overview
+## Overview
 
 This is an animation program developed using MVC (Model-View-Controller) design and tested extensively with JUnit tests to ensure proper code functionality.
 
@@ -19,7 +19,7 @@ User features:
 - Create and visualize animations and export them as an SVG or a textual description
 - Control animation via a clean and effective UI
 
-# Design
+## Design
 
 As seen in the project directory structure below, we decided to use MVC design for this project. The Model-View-Controller architecture has several benefits:
 - <b>Separation of concerns:</b> One of the main benefits of MVC is that it separates the different concerns of an application into distinct components. The model is responsible for handling data and business logic, the view is responsible for displaying information to the user, and the controller is responsible for handling user input and updating the model and view accordingly. This separation of concerns makes it easier to maintain and modify different parts of the application without affecting others.
@@ -90,7 +90,7 @@ Here is how MVC was used to organize this animation generator:
     This is an example of the interactive view of the program. This view allows the user to play/pause, enable/disable looping, restart, rewind, and fast-forward.
 </div>
 
-# Bubble Sort
+## Bubble Sort
 
 We animated a bubble sort algorithm using our animation generator program.
 

@@ -8,9 +8,10 @@ category: fun
 ---
 
 <em>Author:</em> Inbar Ofer
-Project code can be found [here](https://script.google.com/d/15BPkvuq53yt_keMI4ZD5bAdR3GkYExFAzY59ZhyDcbhwxqbeK6x3PV76/edit?usp=sharing).
 
-# Overview
+- Project code can be found [here](https://script.google.com/d/15BPkvuq53yt_keMI4ZD5bAdR3GkYExFAzY59ZhyDcbhwxqbeK6x3PV76/edit?usp=sharing).
+
+## Overview
 
 This is a Google Apps Script that creates a trigger for a Google Sheets file. When students edit the spreadsheet to request help, the script sends an email notification to a phone number via email-to-SMS gateway.
 
@@ -27,7 +28,7 @@ sending text notifications to TAs during their shift
     Example notification
 </div>
 
-# How It Works
+## How It Works
 
 The `createSpreadsheetEditTrigger()` function creates a trigger for when a spreadsheet is edited. The script opens a specific Google Sheets file by ID using `SpreadsheetApp.openById()`. It then creates a new trigger using `ScriptApp.newTrigger()` that will execute the `alarm()` function when the spreadsheet is edited.
 
