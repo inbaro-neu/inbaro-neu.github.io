@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
-img: assets/img/1.jpg
+title: Chai Lab
+description: Developing a platform to identify enzymes that break down psychoactive drugs
+img: assets/img/Yeast_agar_plate-01.jpg
+redirect: /assets/pdf/Final_2023_RISE_Poster_Inbar_Ofer.pdf
 importance: 3
-category: fun
+category: work
 ---
 
 Every project has a beautiful feature showcase page.
