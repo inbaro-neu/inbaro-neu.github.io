@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Animation Generator
-description: Program to generate animations from a text description
+description: "Program to generate animations from a text description<br><b>Using: </b><em>Java, Java Swing</em>"
 img: assets/img/buildings-interactive-screenshot.png
 importance: 1
 category: school

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Vaccine Distribution System
-description: Tool that models the flow of vaccines through various distribution channels
+description: "Tool that models the flow of vaccines through various distribution channels<br><b>Using: </b><em>MySQL, Java</em>"
 img: /assets/img/project4_thumbnail.jpeg
 importance: 2
 category: school
