@@ -2,7 +2,7 @@
 layout: page
 title: Vaccine Distribution System
 description: Tool that models the flow of vaccines through various distribution channels
-img:
+img: /assets/img/project4_thumbnail.jpeg
 importance: 2
 category: school
 ---
