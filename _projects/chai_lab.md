@@ -2,7 +2,7 @@
 layout: page
 title: Chai Lab
 description: "Developing a platform to identify enzymes that break down psychoactive drugs<br><b>Using: </b><em>Python</em>"
-img: assets/img/Yeast_agar_plate-01.jpg
+img: assets/img/RISE_2023.jpeg
 redirect: /assets/pdf/Final_2023_RISE_Poster_Inbar_Ofer.pdf
 importance: 3
 category: work
