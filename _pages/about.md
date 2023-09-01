@@ -16,9 +16,9 @@ news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-I am an honors student at Northeastern University studying computer science and behavioral neuroscience, with an expected graduation date of December 2023. I've completed co-ops in both computer science and healthcare, as well as participated in computational and wet lab biology research. In my free time, I like to write and design for NU Sci, the Northeastern science magazine, and take aerial hammock classes.
+I am an honors student at Northeastern University studying computer science and behavioral neuroscience, with an expected graduation date of December 2023. I've completed computer science and clinical co-ops at biotech companies and hospitals, as well as participated in computational and wet lab biology research. In my free time, I like to write and design for NU Sci, the Northeastern science magazine, and take aerial hammock classes.
 
-I am currently seeking a part-time position (~25-30 hrs/week) in software engineering, data science, computational biochemistry, or UI/UX design, with potential to expand to full-time in January 2024.
+I am currently seeking a full-time position in data science, computational biochemistry, or UI/UX design, beginning in January 2024.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `profile_pic.jpg` and put it in the `img/` folder.
 

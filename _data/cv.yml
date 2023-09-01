@@ -13,7 +13,7 @@
   contents:
     - title: Bachelor's Degree
       institution: Northeastern University, Boston, MA
-      highlights: "GPA: 3.94/4.0"
+      highlights: "GPA: 3.95/4.0"
       year: 2019 - 2023
       description:
         - "Major: Computer Science and Behavioral Neuroscience"
@@ -22,6 +22,15 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Biomedical Data Science Co-op
+      institution: Cerevel Therapeutics, Cambridge, MA
+      year: 2023 - Present
+      description:
+        - Integrated data from multiple databases and APIs, like OpenTargets, to identify optimal disease targets for drug development, bridging current and future research insights
+        - Leveraged PySpark and Pandas dataframes for data manipulation, and used network graph models to visualize complex relationships between gene targets and diseases
+        - Initiated projects with Python notebook prototypes, subsequently developing intuitive and user-friendly Streamlit applications that enable disease- or gene-specific queries
+        - Engineered a robust Neo4j database aggregating data on genes, diseases, and companies, focusing on best practices in data cleaning, batch import optimization, and detailed activity logging
+
     - title: Research Assistant
       institution: Chai Lab, Northeastern University, Boston, MA
       year: 2019 - Present
@@ -36,7 +45,7 @@
       institution: Northeastern University, Boston, MA
       year: 2019 - Present
       description:
-        - title: Fundamentals of Computer Science II & Object-Oriented Design
+        - title: Fundamentals of Computer Science II; Object-Oriented Design
           contents:
             - Coach 100+ students on class material and best practices for solving homework problems during 1-on-1 office hours
             - Provide constructive feedback on Java homework assignments to track students’ progress
@@ -44,6 +53,10 @@
           contents:
             - Devise original weekly recitation lesson plans based on important concepts from lecture
             - Review key ideas and guide 200+ students through practice problems on Zoom recitations
+        - title: Algorithms & Data
+          contents:
+            - Lead engaging recitations by creating a collaborative and inclusive learning environment, providing clear explanations, encouraging teamwork, and fostering open discussions on complex problems to enhance student understanding
+            - Assist in the development and grading of weekly recitation problem sets, offering constructive feedback to enhance student understanding and performance on related homework assignments
 
     - title: Patient Care Assistant (PCA)
       institution: Brigham & Women's Hospital, Boston, MA
@@ -54,7 +67,7 @@
         - Performed patient monitoring activities such as vital signs and blood glucose
         - Mentored and taught new nursing assistants to meet performance expectations
 
-    - title: Data Engineering Co-op (Full Time)
+    - title: Data Engineering Co-op
       institution: FogPharma, Cambridge, MA
       year: 2021
       description:
@@ -63,9 +76,9 @@
         - Enabled maintenance of internal app preferences across devices and browsers using Vuex and ElasticSearch
         - Designed and implemented scalable and secure cloud-based solutions using AWS services such as EC2 and S3, enabling efficient and reliable processing and storage of data
 
-    - title: Creative Designer and Marketing Writer (Full Time)
+    - title: Creative Designer and Marketing Writer
       institution: North American Pharmacal, Norwalk, CT
-      year: 2018 - 2020
+      year: 2018-2019 (Full-Time), 2019-2020 (Part-Time)
       description:
         - "Wrote, revised, and proofread original content for monthly newsletter (reader base: 70,000)"
         - Wireframed modern e-commerce web pages to optimize user experience
@@ -76,14 +89,14 @@
   contents:
     - title: Medical Advocate (Rape Crisis Counselor)
       institution: Boston Area Rape Crisis Center (BARCC), Boston, MA
-      year: 2021 - Present
+      year: 2021 - 2022
       description:
         - Provide emotional support to rape survivors in various Boston emergency rooms, allowing health practitioners to focus their efforts on physical exams and evidence collection
         - Communicate dependably with all parties involved, facilitating timely and streamlined treatment
 
     - title: Writer and Designer
       institution: NU Sci Magazine, Boston, MA
-      year: 2023 - Present
+      year: 2023
       description:
         - Promote scientific literacy by writing about topics such as genetics
         - Create informative and visually appealing content that highlights the latest developments in the world of science
@@ -122,21 +135,24 @@
   contents:
     - title: Programming Languages & OS
       items: 
-        - Java
-        - Racket
-        - Unix
-        - Kotlin
         - Python
-        - HTML
+        - Java
+        - Bash
+        - Unix
+        - Cypher
         - SQL
+        - HTML
+        - Racket
+        - R
+        - Kotlin
         - C
         - Assembly
         - JavaScript
-        - R
-    - title: Software
+    - title: Software and Platforms
       items:
         - Git
         - LaTeX
+        - Neo4j
         - title: Adobe Creative Suite
           items:
             - XD
