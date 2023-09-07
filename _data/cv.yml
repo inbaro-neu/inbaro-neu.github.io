@@ -11,17 +11,17 @@
 - title: Education
   type: time_table
   contents:
-    - title: Masters in Computer Science
+    - title: MS, Computer Science
       institution: Georgia Institute of Technology, Online
       year: 2024 -
       description:
         - Admitted; Starting Spring 2024
-    - title: Bachelor's Degree
+
+    - title: BS, Computer Science and Behavioral Neuroscience 
       institution: Northeastern University, Boston, MA
       highlights: "GPA: 3.95/4.0"
       year: 2019 - 2023
       description:
-        - "Major: Computer Science and Behavioral Neuroscience"
         - "Minor: Ethics"
 
 - title: Experience
