@@ -16,7 +16,7 @@ news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-I am an honors student at Northeastern University studying computer science and behavioral neuroscience, with an expected graduation date of December 2023. Starting January 2024, I will be pursuing a master's in computer science at Georgia Tech. I've completed computer science and clinical co-ops at biotech companies and hospitals, as well as participated in computational and wet lab biology research. In my free time, I like to write and design for NU Sci, the Northeastern science magazine, and take aerial hammock classes.
+I am an honors student at Northeastern University studying computer science and behavioral neuroscience, graduating in December 2023. Starting January 2024, I will be pursuing a master's in computer science at Georgia Tech. I've completed computer science and clinical co-ops at biotech companies and hospitals, as well as participated in computational and wet lab biology research. In my free time, I like to write and design for NU Sci, the Northeastern science magazine, and take aerial hammock classes.
 
 I am currently seeking a full-time position in data science, computational biochemistry, or UI/UX design, beginning in January 2024.
 
