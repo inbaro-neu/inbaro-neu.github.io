@@ -12,13 +12,13 @@
   type: time_table
   contents:
     - title: MS, Computer Science
-      institution: Georgia Institute of Technology, Online
+      institution: Georgia Institute of Technology
       year: 2024 -
       description:
         - Admitted; Starting Spring 2024
 
     - title: BS, Computer Science and Behavioral Neuroscience 
-      institution: Northeastern University, Boston, MA
+      institution: Northeastern University
       highlights: "GPA: 3.95/4.0"
       year: 2019 - 2023
       description:
@@ -28,7 +28,7 @@
   type: time_table
   contents:
     - title: Biomedical Data Science Co-op
-      institution: Cerevel Therapeutics, Cambridge, MA
+      institution: Cerevel Therapeutics
       year: 2023 - Present
       description:
         - Integrated data from multiple databases and APIs, like OpenTargets, to identify optimal disease targets for drug development, bridging current and future research insights
@@ -37,7 +37,7 @@
         - Engineered a robust Neo4j database aggregating data on genes, diseases, and companies, focusing on best practices in data cleaning, batch import optimization, and detailed activity logging
 
     - title: Research Assistant
-      institution: Chai Lab, Northeastern University, Boston, MA
+      institution: Chai Lab, Northeastern University
       year: 2019 - Present
       description:
         - Develop and optimize a detection method for GHB, a recreational and date rape drug, using two enzymes obtained by PCR and expressed in E. coli under the supervision of Dr. Yunrong Chai
@@ -47,7 +47,7 @@
             - Predict binding affinity between the drug and bacterial enzymes using DeepDTAF
 
     - title: Teaching Assistant/Fellow (TA)
-      institution: Northeastern University, Boston, MA
+      institution: Northeastern University
       year: 2019 - Present
       description:
         - title: Fundamentals of Computer Science II; Object-Oriented Design
@@ -64,7 +64,7 @@
             - Assist in the development and grading of weekly recitation problem sets, offering constructive feedback to enhance student understanding and performance on related homework assignments
 
     - title: Patient Care Assistant (PCA)
-      institution: Brigham & Women's Hospital, Boston, MA
+      institution: Brigham & Women's Hospital
       year: 2022
       description:
         - Provided direct and indirect care for patients by assisting RNs with clinical tasks and responding to the needs of patients and family members
@@ -73,7 +73,7 @@
         - Mentored and taught new nursing assistants to meet performance expectations
 
     - title: Data Engineering Co-op
-      institution: FogPharma, Cambridge, MA
+      institution: FogPharma
       year: 2021
       description:
         - Built applications using R Shiny to display and analyze quantitative biological and chemical data, improving scientist workflows
@@ -82,7 +82,7 @@
         - Designed and implemented scalable and secure cloud-based solutions using AWS services such as EC2 and S3, enabling efficient and reliable processing and storage of data
 
     - title: Creative Designer and Marketing Writer
-      institution: North American Pharmacal, Norwalk, CT
+      institution: North American Pharmacal
       year: 2018-2020
       description:
         - "Wrote, revised, and proofread original content for monthly newsletter (reader base: 70,000)"
@@ -93,14 +93,14 @@
   type: time_table
   contents:
     - title: Medical Advocate (Rape Crisis Counselor)
-      institution: Boston Area Rape Crisis Center (BARCC), Boston, MA
+      institution: Boston Area Rape Crisis Center (BARCC)
       year: 2021 - 2022
       description:
         - Provide emotional support to rape survivors in various Boston emergency rooms, allowing health practitioners to focus their efforts on physical exams and evidence collection
         - Communicate dependably with all parties involved, facilitating timely and streamlined treatment
 
     - title: Writer and Designer
-      institution: NU Sci Magazine, Boston, MA
+      institution: NU Sci Magazine
       year: 2023
       description:
         - Promote scientific literacy by writing about topics such as genetics
@@ -108,7 +108,7 @@
         - Design magazine pages in line with brand guidelines on Adobe InDesign
     
     - title: Campus Fellow
-      institution: "Shamayim: Jewish Animal Advocacy, Scottsdale, AZ"
+      institution: "Shamayim: Jewish Animal Advocacy"
       year: 2021 - 2022
       description:
         - Hosted several events supporting animal advocacy each semester in conjunction with the Northeastern Hillel
