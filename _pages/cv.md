@@ -4,5 +4,5 @@ permalink: /resume/
 title: Resume
 nav: true
 nav_order: 4
-cv_pdf: Inbar_Ofer_Resume.pdf
+cv_pdf: Ofer_Resume_9-8-23.pdf
 ---
