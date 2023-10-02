@@ -31,24 +31,24 @@
       institution: Cerevel Therapeutics
       year: 2023 - Present
       description:
-        - Integrated data from multiple databases and APIs, like OpenTargets, to identify optimal disease targets for drug development, bridging current and future research insights
-        - Leveraged PySpark and Pandas dataframes for data manipulation, and used network graph models to visualize complex relationships between gene targets and diseases
-        - Initiated projects with Python notebook prototypes, subsequently developing intuitive and user-friendly Streamlit applications that enable disease- or gene-specific queries
-        - Engineered a robust Neo4j database aggregating data on genes, diseases, and companies, focusing on best practices in data cleaning, batch import optimization, and detailed activity logging
+        - Leveraged PySpark and Pandas to efficiently process large datasets and uncover relationships between genes, drugs, and diseases through network graph analysis and visualization
+        - Initiated projects using Jupyter Notebooks with Git version control; evolved these into user-friendly Streamlit applications, thereby improving usability for internal teams
+        - Integrated disparate data types such as molecular descriptors (SMILES) and medical codes (ICD, HPO, SNOMED CT) via various sources, including OpenTargets GraphQL and UMLS REST APIs, to identify optimal disease indications for drugs in the pipeline
+        - Architected ETL pipelines for data extraction, transformation, and loading into a Neo4j database using best practices like test-driven development, detailed logging, and data validation; focus on data quality and system reliability ensured seamless usage for downstream applications
 
     - title: Research Assistant
       institution: Chai Lab, Northeastern University
-      year: 2019 - Present
+      year: 2019 - 2023
       description:
-        - Develop and optimize a detection method for GHB, a recreational and date rape drug, using two enzymes obtained by PCR and expressed in E. coli under the supervision of Dr. Yunrong Chai
-        - title: Build a computational platform in Python to identify bacterial enzymes that break down psychoactive drugs
+        - Worked on developing and optimizing an enzymatic detection method for GHB, a recreational and date rape drug, using two enzymes obtained by PCR and expressed in E. coli under the supervision of Dr. Yunrong Chai
+        - title: Proposed and initiated development of a Python platform to identify psychoactive drug-metabolizing enzymes
           contents:
-            - Extract and processing data from the Protein Data Bank (PDB) API
-            - Predict binding affinity between the drug and bacterial enzymes using DeepDTAF
+            - Extracted and processed enzyme data from the Protein Data Bank (PDB) API
+            - Began implementing binding affinity predictions using DeepDTAF
 
     - title: Teaching Assistant/Fellow (TA)
       institution: Northeastern University
-      year: 2019 - Present
+      year: 2019 - 2023
       description:
         - title: Fundamentals of Computer Science II; Object-Oriented Design
           contents:
@@ -76,10 +76,10 @@
       institution: FogPharma
       year: 2021
       description:
-        - Built applications using R Shiny to display and analyze quantitative biological and chemical data, improving scientist workflows
-        - Designed and implemented guided tour and tooltips plugin for internal enterprise search in Javascript using Shepherd.js, streamlining onboarding for the new platform
-        - Enabled maintenance of internal app preferences across devices and browsers using Vuex and ElasticSearch
-        - Designed and implemented scalable and secure cloud-based solutions using AWS services such as EC2 and S3, enabling efficient and reliable processing and storage of data
+        - Developed interactive R Shiny applications to streamline analysis workflows for scientists across research domains
+        - Improved user onboarding experience of internal enterprise search platform by creating guided tours and tooltips using Shepherd.js
+        - Enabled persistence and synchronization of user settings across devices by implementing Vuex state management with ElasticSearch on the backend
+        - Designed and implemented scalable and secure cloud-based solutions using AWS services such as EC2 and S3; integrated Jenkins for automated CI/CD to improve efficiency and reliability
 
     - title: Creative Designer and Marketing Writer
       institution: North American Pharmacal
