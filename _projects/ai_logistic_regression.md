@@ -2,6 +2,7 @@
 layout: page
 title: "Deep Dive into Logistic Regression: Analyzing Handwritten Digits"
 description: "A project implementing and analyzing both binary and multinomial logistic regression models to classify handwritten digits from the MNIST dataset<br><b>Using: </b><em>Logistic Regression, Python, NumPy, Matplotlib</em>"
+img: assets/img/binary-confusion-matrix.png
 importance: 1
 category: school
 ---
