@@ -128,3 +128,47 @@ Additional features that may help the model make correct predictions on these er
 - <b>Approach:</b> Utilize `model.MultiLogisticRegressionModel` for a more comprehensive classification covering all digits from “0” to “9”.
 - <b>Analysis:</b> Similar to the binary case, this section involves plotting training and test accuracy curves, confusion matrices, and an examination of the learned weights for all digit classes.
 - <b>Performance Optimization:</b> Due to the larger scale of data (60K training images and 10K test images), strategies such as training on a fraction of the data and using fewer iterations during development and debugging are employed for efficient performance without compromising accuracy​.
+
+### Insights and Analysis
+
+#### Accuracy Curves
+
+<div class="row">
+    <!-- First Image -->
+    <div class="col-md-6 mt-3">
+        {% include figure.html path="assets/img/multinomial-train-accuracy-curve.png" title="Train accuracy curve" class="img-fluid rounded z-depth-1" %}
+        <div class="caption">
+            Train accuracy curve.
+        </div>
+    </div>
+
+    <!-- Second Image -->
+    <div class="col-md-6 mt-3">
+        {% include figure.html path="assets/img/multinomial-test-accuracy-curve.png" title="Test accuracy curve" class="img-fluid rounded z-depth-1" %}
+        <div class="caption">
+            Test accuracy curve.
+        </div>
+    </div>
+</div>
+
+#### Confusion Matrix
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/multinomial-confusion-matrix.png" title="Confusion Matrix" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+`Accuracy: 92.22 % ( 9222 out of 10000 )
+Confusion matrix:
+0 1 2 3 4 5 6 7 8 9
+0 [961, 0, 3, 2, 0, 3, 8, 1, 2, 0]
+1 [0, 1109, 2, 2, 0, 2, 4, 2, 14, 0]
+2 [7, 7, 921, 16, 11, 3, 14, 11, 36, 6]
+3 [3, 1, 22, 919, 0, 26, 2, 11, 18, 8]
+4 [1, 2, 4, 1, 917, 0, 12, 2, 8, 35]
+5 [9, 3, 3, 34, 9, 771, 18, 7, 31, 7]
+6 [13, 3, 3, 2, 10, 12, 912, 2, 1, 0]
+7 [2, 9, 22, 9, 6, 1, 0, 943, 2, 34]
+8 [7, 6, 7, 23, 9, 25, 11, 13, 868, 5]
+9 [10, 8, 2, 11, 36, 7, 0, 26, 8, 901]`
