@@ -424,6 +424,83 @@
 <b>Performance Optimization:</b> Due to the larger scale of data (60K training images and 10K test images), strategies such as training on a fraction of the data and using fewer iterations during development and debugging are employed for efficient performance without compromising accuracy​.</li>
 </ul>
 
+<h3 id="insights-and-analysis-1">Insights and Analysis</h3>
+
+<h4 id="accuracy-curves-1">Accuracy Curves</h4>
+
+<div class="row">
+    <!-- First Image -->
+    <div class="col-md-6 mt-3">
+        <figure>
+
+  <picture>
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/multinomial-train-accuracy-curve.png" class="img-fluid rounded z-depth-1" width="auto" height="auto" title="Train accuracy curve" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
+
+  </picture>
+
+</figure>
+
+        <div class="caption">
+            Train accuracy curve.
+        </div>
+    </div>
+
+    <!-- Second Image -->
+    <div class="col-md-6 mt-3">
+        <figure>
+
+  <picture>
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/multinomial-test-accuracy-curve.png" class="img-fluid rounded z-depth-1" width="auto" height="auto" title="Test accuracy curve" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
+
+  </picture>
+
+</figure>
+
+        <div class="caption">
+            Test accuracy curve.
+        </div>
+    </div>
+</div>
+
+<h4 id="confusion-matrix-1">Confusion Matrix</h4>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/multinomial-confusion-matrix.png" class="img-fluid rounded z-depth-1" width="auto" height="auto" title="Confusion Matrix" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
+
+  </picture>
+
+</figure>
+
+    </div>
+</div>
+
+<p><code class="language-plaintext highlighter-rouge">Accuracy: 92.22 % ( 9222 out of 10000 )
+Confusion matrix:
+0 1 2 3 4 5 6 7 8 9
+0 [961, 0, 3, 2, 0, 3, 8, 1, 2, 0]
+1 [0, 1109, 2, 2, 0, 2, 4, 2, 14, 0]
+2 [7, 7, 921, 16, 11, 3, 14, 11, 36, 6]
+3 [3, 1, 22, 919, 0, 26, 2, 11, 18, 8]
+4 [1, 2, 4, 1, 917, 0, 12, 2, 8, 35]
+5 [9, 3, 3, 34, 9, 771, 18, 7, 31, 7]
+6 [13, 3, 3, 2, 10, 12, 912, 2, 1, 0]
+7 [2, 9, 22, 9, 6, 1, 0, 943, 2, 34]
+8 [7, 6, 7, 23, 9, 25, 11, 13, 868, 5]
+9 [10, 8, 2, 11, 36, 7, 0, 26, 8, 901]</code></p>
+
           </article>
 
         </div>
