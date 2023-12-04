@@ -33,7 +33,7 @@
       description:
         - Leveraged PySpark and Pandas to efficiently process large datasets and uncover relationships between genes, drugs, and diseases through network graph analysis and visualization
         - Initiated projects using Jupyter Notebooks with Git version control; evolved these into user-friendly Streamlit applications, thereby improving usability for internal teams
-        - Integrated disparate data types such as molecular descriptors (SMILES) and medical codes (ICD, HPO, SNOMED CT) via various sources, including OpenTargets GraphQL and UMLS REST APIs, to identify optimal disease indications for drugs in the pipeline
+        - Integrated disparate data types such as molecular descriptors (SMILES) and medical codes (ICD, HPO, SNOMED CT) via various sources, including GraphQL and REST APIs, to identify optimal disease indications for drugs in the pipeline
         - Architected ETL pipelines for data extraction, transformation, and loading into a Neo4j database using best practices like test-driven development, detailed logging, and data validation; focus on data quality and system reliability ensured seamless usage for downstream applications
 
     - title: Research Assistant
