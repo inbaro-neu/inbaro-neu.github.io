@@ -4,6 +4,7 @@ title: "Modeling the Spillover Effect: Forecasting Anti-Religious Hate Crimes"
 description: "A project using Israel-Palestine conflict data to forecast anti-religious hate crimes<br><b>Using: </b><em>Time Series Forecasting, ARIMA, LSTM Neural Networks</em>"
 importance: 1
 category: school
+published: false
 ---
 
 - This project is still in progress and is estimated to be completed by December 15, 2023.
