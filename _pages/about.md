@@ -18,7 +18,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 I recently graduated summa cum laude from Northeastern University with a bachelor's degree in computer science and behavioral neuroscience.
 
-Starting January 2024, I will be pursuing a master's in computer science part-time at Georgia Tech.
+Since January 2024, I have been pursuing a master's in computer science part-time at Georgia Tech.
 
 I've completed computer science and clinical co-ops at biotech companies and hospitals, as well as participated in computational and wet lab biology research.
 
